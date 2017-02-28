@@ -1,0 +1,9 @@
+Simulation started at: 16:51:27 on 10/1/2017
+
+Sun mass: 80000.000000
+Sun size: 800.000000
+Number of planets: 47
+Collisions occured: 72
+Planets removed: 0
+
+Simulation finished at: 16:51:48 on 10/1/2017

@@ -1,0 +1,20 @@
+---INSTRUCTIONS---
+
+1. Run the executable.
+
+2. Execute any commands:
+	a - save progress to file
+	r - remove element from linked list
+	w - zoom in
+	up - zoom in
+	s - zoom out
+	down - zoom out
+	x - exit
+	right click - in simulation menu
+	left click - navigate left or right
+
+3. Exit the executable using x key.
+
+4. View the "solarsystem.txt" file contained 
+   the folder with the executable to see the 
+   statistics of your simulation.

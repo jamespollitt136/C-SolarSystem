@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  raaVector.cpp
+c:\users\james\documents\assignment 1 pack\computergraphics - 2016 - assignment1-template\computergraphics - 2016 - assignment1-template\raamaths\raavector.cpp(89): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\james\documents\assignment 1 pack\computergraphics - 2016 - assignment1-template\computergraphics - 2016 - assignment1-template\raamaths\raavector.cpp(97): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  raaMatrix.cpp
+c:\users\james\documents\assignment 1 pack\computergraphics - 2016 - assignment1-template\computergraphics - 2016 - assignment1-template\raamaths\raamatrix.cpp(49): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\james\documents\assignment 1 pack\computergraphics - 2016 - assignment1-template\computergraphics - 2016 - assignment1-template\raamaths\raamatrix.cpp(50): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\james\documents\assignment 1 pack\computergraphics - 2016 - assignment1-template\computergraphics - 2016 - assignment1-template\raamaths\raamatrix.cpp(64): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\james\documents\assignment 1 pack\computergraphics - 2016 - assignment1-template\computergraphics - 2016 - assignment1-template\raamaths\raamatrix.cpp(65): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\james\documents\assignment 1 pack\computergraphics - 2016 - assignment1-template\computergraphics - 2016 - assignment1-template\raamaths\raamatrix.cpp(79): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\james\documents\assignment 1 pack\computergraphics - 2016 - assignment1-template\computergraphics - 2016 - assignment1-template\raamaths\raamatrix.cpp(80): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  raaMaths.cpp
+c:\users\james\documents\assignment 1 pack\computergraphics - 2016 - assignment1-template\computergraphics - 2016 - assignment1-template\raamaths\raamaths.cpp(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  raaMaths.vcxproj -> C:\Users\James\Documents\Assignment 1 Pack\ComputerGraphics - 2016 - Assignment1-template\ComputerGraphics - 2016 - Assignment1-template\x64\Debug\raaMaths.lib
